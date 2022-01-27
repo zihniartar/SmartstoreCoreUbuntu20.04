@@ -282,7 +282,7 @@ sudo systemctl stop kestrel-smartstore.service
 sudo apt-get update
 ```
 ```bash
-sudo apt-get -y install wkhtmltopdf
+sudo apt -y install wkhtmltopdf
 ```
 
 ### Festlegen der Ordnerberechtigungen
