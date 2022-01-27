@@ -261,7 +261,7 @@ WantedBy=multi-user.target
 >```
 > Code bei **eigenständiger Bereitstellung**:
 >```bash
->ExecStart=/var/www/html/**Smartstore.Web**
+>ExecStart=/var/www/html/Smartstore.Web
 >```
 
 ### Dienst aktivieren und starten
